@@ -3,12 +3,34 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "maps/maps.tmj",
     "expandedProjectPaths": [
+        "maps",
+        ".",
+        "tilesets"
     ],
     "fileStates": {
         "#maps_ext_1_fond": {
             "scaleInDock": 1
+        },
+        "maps/maps.tmj": {
+            "scale": 0.5719791666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.7867419413587,
+                "y": 253.50573665998914
+            }
+        },
+        "maps/maps.tmj#maps_ext_1_fond": {
+            "scaleInDock": 1
+        },
+        "tilesets/maps_ext_1_fond.tmx": {
+            "scale": 0.5719791666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 473.7934802403934,
+                "y": 400.3642323802586
+            }
         },
         "tilesets/maps_ext_1_fond.tsx": {
             "scaleInDock": 1,
@@ -23,10 +45,15 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 30,
     "openFiles": [
+        "tilesets/maps_ext_1_fond.tmx",
+        "tilesets/maps_ext_1_fond.tsx",
+        "maps/maps.tmj"
     ],
     "project": "map_ext_1.tiled-project",
     "recentFiles": [
-        "tilesets/maps_ext_1_fond.tsx"
+        "tilesets/maps_ext_1_fond.tmx",
+        "tilesets/maps_ext_1_fond.tsx",
+        "maps/maps.tmj"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
